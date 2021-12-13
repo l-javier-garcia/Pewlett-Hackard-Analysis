@@ -8,4 +8,8 @@ Pewlett Hackard will have 41381 vacancies after the "silver tsunami" hits. We ha
 ###### 2. Mentoring opportunities 
 To help fill in the vacancies that the silver tsunami members will leave behind we found about 1550 employees that can help mentor younger employees.
 ###### 3. Engineering Leadership will vacate the most positions
+The job position that will be vacated the most is the Senior Engineers at 29,414 positions. This could lead to lack of support to younger, less experienced engineers making repair and/or manufacture much longer. 
+###### 4. Luckily, career spans are long in PH
+What we're able to see from the data is that people that join PH last a very long time and there's plenty of room for employees to grow but vertically and horizontally if they feel they want to transition to a different field in the company. 
+
 
