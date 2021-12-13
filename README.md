@@ -14,5 +14,7 @@ What we're able to see from the data is that people that join PH last a very lon
 
 ## Summary
 ###### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+41,381 employees will vacate their position when the "silver tsunami" hits, the company has to be very careful about the employee morale due to the heavier workload to the employees that still hold employment there. We want to promote engineers that have the merit and the career to warrant it. 
 
 ###### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Unfortunately there are not many mentors company wide to help support the size of the company. Relocation to different parts of the country or to the biggest factories would be very beneficial plus keeping an open communication channel for "greener" employees would be beneficial. 
